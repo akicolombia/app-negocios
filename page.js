@@ -8,11 +8,19 @@ export default function Home() {
       minHeight: '100vh'
     }}>
       <h1 style={{ 
+<<<<<<< HEAD
         color: '#eb8b25ff', 
         textAlign: 'center',
         marginBottom: '2rem'
       }}>
         Directorio Comercial De Chia -
+=======
+        color: '#2563EB', 
+        textAlign: 'center',
+        marginBottom: '2rem'
+      }}>
+        Directorio Comercial De Chia
+>>>>>>> 600a26d104c6951e7dd424e9f36fa601f4a3fa9c
         Todo lo que necesitas en un mismo lugar
       </h1>
 
@@ -35,6 +43,7 @@ export default function Home() {
       ))}
     </div>
   );
+<<<<<<< HEAD
 }git status
 git add .
 git add app/page.js app/data/negocios.js
@@ -46,3 +55,6 @@ app-negocios/
 │   └── data/
 │       └── negocios.js
 ├── package.json
+=======
+}
+>>>>>>> 600a26d104c6951e7dd424e9f36fa601f4a3fa9c
