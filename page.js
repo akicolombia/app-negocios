@@ -35,4 +35,14 @@ export default function Home() {
       ))}
     </div>
   );
-}
+}git status
+git add .
+git add app/page.js app/data/negocios.js
+git commit -m "Agregando archivos iniciales"
+git push origin main
+app-negocios/
+├── app/
+│   ├── page.js
+│   └── data/
+│       └── negocios.js
+├── package.json
