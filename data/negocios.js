@@ -3,7 +3,7 @@ export const negocios = [
     id: 1,
     nombre: "FONDA LA CENAIDA",
     categoria: "Alimentos",
-    direccion: "Calle Principal 123",
+    direccion: "VEREDA LA BALSA",
     telefono: "+1234567890",
     horario: "6:00 AM - 8:00 PM"
   },
@@ -30,5 +30,13 @@ export const negocios = [
     direccion: "Plaza Central 101",
     telefono: "+5566778899",
     horario: "7:00 AM - 8:00 PM"
-  }
-];
+  },
+  {
+  id: 5,
+    nombre: "CANCHA DE TEJO LA CENIS",
+    categoria: "eNTREWTENIMIENTO",
+    direccion: "Plaza Central 101",
+    telefono: "+5566778899",
+    horario: "7:00 AM - 8:00 PM"
+    }];
+    

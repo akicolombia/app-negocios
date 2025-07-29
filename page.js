@@ -140,5 +140,17 @@ export default function Home() {
         ))}
       </div>
     </div>
-  );
-}
+  );}git add .
+git commit -m "Limpieza de archivos duplicados en /app"
+git push origin main
+# Desde la raíz (app-negocios/)
+npm init -y
+npm run dev -- --hostname 0.0.0.0
+app-negocios/
+├── app/
+│   ├── page.js         (tu componente principal)
+│   └── data/
+│       └── negocios.js (base de datos local)
+├── node_modules/
+├── package.json
+└── .gitignore
